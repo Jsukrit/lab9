@@ -50,6 +50,6 @@ do{
 	cout << "\n";
 	i++;
 }while( newba != 0);
-	
+	cout << "hahahah";
 	return 0;
 }
